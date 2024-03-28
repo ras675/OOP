@@ -1,0 +1,10 @@
+asdf,10
+fghj,20
+qwer,70
+tyui,30
+zxcv,100
+bnmp,90
+ghjkl,110
+yuiop,120
+hjkl,130
+bnm,140
